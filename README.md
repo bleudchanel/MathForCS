@@ -1,4 +1,4 @@
-# Solving the Assignment of MIT 6.042J / 18.062J Mathematics for Computer Science
+# Solving the Assignments of MIT 6.042J / 18.062J Mathematics for Computer Science
 by Wilmer Vidal Uruchi Ticona wilmer.vidal.uruchi@est.fib.upc.edu
 
 As a way to remembers some concepts I forgot with time, and to learn others that I never learned, I decided to undertake the solving of the assignment of the freely available course of MIT 6.042J / 18.062J Mathematics for Computer Science, which you can find here: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm.
